@@ -1,5 +1,6 @@
 <p align="center">
   <br>
+  <Img src="https://github.com/rafarod21/DoWhile2021/blob/main/git-assets/logo.svg" width=700/>
  </h3>
   
   <p align="center">
@@ -47,7 +48,16 @@ Seu objetivo é que vários devs se conectem na plataforma e escrevam suas expec
   💻 Desktop 💻
 </h3>
 <p align="center">
-Em andamento :hammer_and_wrench:
+<Img src="https://github.com/rafarod21/DoWhile2021/blob/main/git-assets/NotLogged.jpeg" width=400>
+  <Img src="https://github.com/rafarod21/DoWhile2021/blob/main/git-assets/Logged.jpeg" width=400>
+</p>
+  
+<h3 align="center">
+  :iphone: Mobile :iphone:
+</h3>
+
+<p align="center">
+  Em andamento :hammer_and_wrench:
 </p>
 
 ## Backend :card_file_box:
@@ -59,10 +69,14 @@ Para o backend, foi utilizado Node.js e o SQLite como banco de dados. Foi utiliz
 Em andamento :hammer_and_wrench:
 
 ## Tecnologias :books:
-    
-- [Typescript](https://www.typescriptlang.org)
-- [ReactJS](https://pt-br.reactjs.org)
-- [NextJS](https://nextjs.org)
+
+  - [ReactJS](https://pt-br.reactjs.org)
+  - [Node.js](https://nodejs.org)
+  - [Typescript](https://www.typescriptlang.org)
+  - [Prisma](https://www.prisma.io)
+  - [Socket.IO](https://socket.io)
+  - [Vite](https://vitejs.dev)
+  - [Sass](https://sass-lang.com)
     
 ## Desenvolvedores/Contribuintes :octocat:
 
