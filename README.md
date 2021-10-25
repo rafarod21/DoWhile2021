@@ -62,7 +62,7 @@ Seu objetivo é que vários devs se conectem na plataforma e escrevam suas expec
 
 ## Backend :card_file_box:
 
-Para o backend, foi utilizado Node.js e o SQLite como banco de dados. Foi utilizado o Prisma para conecção com o banco.
+Para o backend, foi utilizado Node.js e o SQLite como banco de dados. Foi utilizado o Prisma para conexão com o banco.
 
 ## Veja você mesmo :arrow_forward:
 
